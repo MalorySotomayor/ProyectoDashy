@@ -1,0 +1,315 @@
+body{
+	color: #797979;
+	background: #f2f2f2;
+	font-family: Ruda,sans-serif;
+	padding: 0!important;
+	margin: 0!important;
+	font-size: 13px;
+	margin: 0;
+}
+
+
+.container-1{
+	padding: 0;
+}
+
+.container{
+	padding: 10px;
+	margin: 6px;
+	height: 60px;
+}
+
+.header{
+	position: fixed;
+	z-index: 10;
+}
+
+.navbar-default{
+	background-color: rgb(255, 202, 89);
+	height: 80px;
+	margin:0;
+	width: 125%;
+}
+
+.navbar-header{
+	padding-right: 60px;
+}
+
+.navbar-default .navbar-brand{
+	color: white;
+}
+
+.botto-logout{
+	position: relative;
+	float: right;
+	bottom: 44px;
+}
+
+.btn-default {
+  color: #333;
+  background-color: rgb(255, 202, 89);
+  border-color: #333;
+ }
+
+ .menu{
+ 	background-color: #333;
+ 	height: 1127px;
+ 	width: 100%;
+ }
+
+ .venado img{
+ 	width: 40%;
+    height: 106px;
+    margin-top: 31px;
+    border-radius: 60px;
+ }
+
+ .venado{
+ 	width: 100%;
+ 	text-align: center;
+ }
+
+ h4{
+ 	color: white;
+ }
+
+ .nav{
+ 	  padding-top: 40px;
+ }
+
+.nav-pills > li > a > span{
+  padding-top: 26px;
+  padding: 8px;
+}
+
+.menu2{
+	padding-top:130px;
+}
+
+aside{
+	float: left;
+	width: 20em;
+	position: fixed;
+	margin-top: 5%;
+}
+
+
+section{
+	font-size: 40px;
+	width: 80%;
+	float: left;
+	position: relative;
+	margin-top: 5%;
+	left: 260px;
+}
+
+.row .icons{
+	margin-top: 85px;
+    margin-bottom: 45px;
+}
+
+.overlay{
+	width: 79%;
+	height: 100%;
+	position:absolute;
+}
+
+.overlay:hover{
+	background-color: white;
+}
+
+ .box0{
+	margin-left: 2.333333%;
+}
+
+
+.row{
+	  margin:0px;
+}
+
+.box1{
+  padding: 15px;
+  text-align: center;
+  color: #989898;
+  border-bottom: 1px solid #989898;
+}
+
+.box0 p{
+	text-align: center;
+	font-size: 12px;
+	color: #f2f2f2;
+	margin: 0 0 10px;
+}
+
+.ma{
+	margin-bottom: 30px;
+}
+
+.white-panel{
+	text-align: center;
+}
+
+.white-header{
+	background: #E6E5E5;
+	padding: 3px;
+	color: #868484;
+}
+
+.img-1{
+	height: 193px;
+	background-image: url(../img-1.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	
+}
+
+.img-2{
+	height: 193px;
+	background-image: url(../img-2.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	
+}
+
+.img-3{
+	height: 193px;
+	background-image: url(../img-3.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	
+}
+
+.img-4{
+	height: 193px;
+	background-image: url(../img-4.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	
+}
+
+.img-5{
+	height: 193px;
+	background-image: url(../img-5.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.img-6{
+	height: 193px;
+	background-image: url(../img-6.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+
+.mb{
+	margin-bottom: 30px;
+}
+
+.ds{
+	background: #fff;
+    padding-top: 20px;
+}
+
+h3{
+	color: #fff;
+	font-size: 16px;
+	padding: 0 10px;
+	line-height: 60px;
+	height: 60px;
+	margin: 0;
+	background: #ff865c;
+	text-align: center;	
+}
+
+.ds .notis{
+	border-bottom: 1px solid #eaeaea;
+  	display: inline-block;
+  	padding: 15px 0;
+  	width: 100%;
+}
+
+.ds .thumbs{
+	width: 30px;
+  	margin: 0 10px 0 20px;
+  	display: block;
+  	float: left;
+}
+
+.clock{
+	background-color: #68dff0;
+	font-size: 12px;
+	line-height: 23px;
+	width: 25px;
+	height: 20px;
+	border-radius: 20px;
+	text-align: center;
+	display: inline-block;
+}
+
+ .glyphicon-time{
+	color: white;
+}
+
+.ds .details{
+	width: 170px;
+  	float: left;
+
+}
+
+
+.ds .notis p{
+	  font-size: 11px;
+	  margin: 0 0 10px;
+}
+
+.ds p>muted{
+	font-size: 9px;
+  	text-transform: uppercase;
+  	font-style: italic;
+  	color: #666;
+}
+
+.ds a{
+	  color: #68dff0;
+}
+
+.img-circle-1{
+	width:35px;
+	height:35px;
+	background-image: url(../img-7.jpg);
+	border-radius: 50px;
+}
+
+.img-circle-2{
+	width:35px;
+	height:35px;
+	background-image: url(../img-8.jpg);
+	border-radius: 50px;
+}
+
+.site-footer{
+	background: #68dff0;
+  	color: #fff;
+}
+
+.centrar-footer{
+	text-align: center;
+	font-size: 16px;
+  	text-align: center;
+}
+
+
+  .go-top{
+  margin-right: 1%;
+  float: right;
+  background: rgba(255,255,255,.5);
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+}
+
+.go-top i {
+  color: #2A3542;
+}
